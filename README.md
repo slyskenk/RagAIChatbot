@@ -100,7 +100,7 @@ Visit http://127.0.0.1:5000 in your browser.
 
 ```
 
-**Usage**
+## Usage
 Type UNICEF-related questions in the input box.
 
 Ask "summarize [report name]" to get a concise summary.
@@ -109,7 +109,7 @@ The chatbot only answers questions related to UNICEF reports.
 
 Answers include a Sources section referencing the reports used.
 
-**Contributions**
+## Contributions
 Contributions are welcome! Suggestions include:
 
 Adding more PDFs for a richer knowledge base
@@ -118,10 +118,10 @@ Using more powerful LLMs for better answers
 
 Improving UI/UX for mobile responsiveness
 
-**License**
+## License**
 APACHE License 2.0 © 2025
 
-**Screenshots / Demo Placeholder**
+## Screenshots / Demo Placeholder
 
 
 ![UI Screenshot](./static/assets/screenshot1.png)
