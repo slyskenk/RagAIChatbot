@@ -67,7 +67,7 @@ The project is designed with a **professional, UNICEF-inspired UI**, making it i
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/RagAIChatbot.git
+git clone https://github.com/slyskenk/RagAIChatbot.git
 cd RagAIChatbot
 Create and activate a virtual environment
 ```
