@@ -53,27 +53,14 @@ The project is designed with a **professional, UNICEF-inspired UI**, making it i
 
 ## Project Structure
 
-RagAIChatbot/
-│
-├── main.py # Flask backend & chatbot logic
-├── vector.py # PDF processing, embeddings, Chroma vector store
-├── requirements.txt # Python dependencies
-├── data/
-│ └── pdf/ # Folder for UNICEF report PDFs
-├── templates/
-│ └── index.html # Frontend HTML
-├── static/
-│ ├── css/
-│ │ └── style.css # Frontend styling
-│ ├── js/
-│ │ └── script.js # Frontend interactions
-│ └── assets/
-│ ├── unicef_logo.png # Placeholder for logo
-│ └── demo.gif # Demo GIF of chatbot
-└── README.md
-
-
-
+- `main.py` → Flask server and main RAG logic for chatbot  
+- `vector.py` → Handles PDF loading, splitting, embedding, and Chroma vector database  
+- `data/pdf/` → Store all official UNICEF/EOF PDF reports here  
+- `templates/index.html` → Frontend UI for interacting with the chatbot  
+- `static/css/style.css` → All styling for professional UNICEF look  
+- `static/js/script.js` → Frontend interactivity (sending messages, updating chat window)  
+- `static/assets/` → Logo placeholders and demo GIFs/screenshots  
+- `README.md` → Explains project, setup, usage, and portfolio showcase  
 ---
 
 ## Setup Instructions
