@@ -16,8 +16,6 @@ The project is designed with a **professional, UNICEF-inspired UI**, making it i
 
 ![Chatbot Demo](./static/assets/demo.gif)
 
-*Screenshot/GIF placeholders for your portfolio.*
-
 ---
 
 ## Features
@@ -131,15 +129,14 @@ Using more powerful LLMs for better answers
 Improving UI/UX for mobile responsiveness
 
 **License**
-APACHE License © 2025
+APACHE License 2.0 © 2025
 
 **Screenshots / Demo Placeholder**
-You can replace the placeholders below with real images or GIFs for your GitHub portfolio:
 
 
 ![UI Screenshot](./static/assets/screenshot1.png)
 ![UI Screenshot](./static/assets/screenshot2.png)
-![Chatbot Demo](./static/assets/demonstration.mp4)
+![Chatbot Demo](./static/assets/demo.gif)
 
 
 ****Made with ❤️ for UNICEF research and educational insights.****
