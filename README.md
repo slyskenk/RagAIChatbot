@@ -14,7 +14,10 @@ The project is designed with a **professional, UNICEF-inspired UI**, making it i
 
 ## 💻 Demo
 
-![Chatbot Demo](./static/assets/demo.gif)
+![UI Screenshot](./static/assets/screenshot1.png)
+![UI Screenshot](./static/assets/screenshot2.png)
+
+![Chatbot Demo](./static/assets/FinalDemo.mp4)
 
 ---
 
@@ -136,7 +139,6 @@ APACHE License 2.0 © 2025
 
 ![UI Screenshot](./static/assets/screenshot1.png)
 ![UI Screenshot](./static/assets/screenshot2.png)
-![Chatbot Demo](./static/assets/demo.gif)
 
 
 ****Made with ❤️ for UNICEF research and educational insights.****
