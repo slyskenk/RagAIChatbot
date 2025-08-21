@@ -17,7 +17,7 @@ The project is designed with a **professional, UNICEF-inspired UI**, making it i
 ![UI Screenshot](./static/assets/screenshot1.png)
 ![UI Screenshot](./static/assets/screenshot2.png)
 
-![Chatbot Demo](./static/assets/FinalDemo.mp4)
+![Link to Chatbot Video Demo](./static/assets/FinalDemo.mp4)
 
 ---
 
