@@ -139,3 +139,7 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
 .env
+venv
+
+__pycache__
+chroma_unicef_db

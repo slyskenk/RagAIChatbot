@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNICEF EOF Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+    <div style="display:flex; align-items:center; justify-content:center; gap:15px;">
+        <img src="{{ url_for('static', filename='images/unicef_logo.png') }}" alt="UNICEF Logo" class="logo">
+        <h1>UNICEF EOF Chat Assistant</h1>
+    </div>
+</header>
+
+
+    <main>
+        <div id="chat-container">
+            <div id="chat-box"></div>
+            <div id="input-area">
+                <input type="text" id="question" placeholder="Ask a question about UNICEF reports...">
+                <button id="send-btn">Send</button>
+            </div>
+        </div>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
