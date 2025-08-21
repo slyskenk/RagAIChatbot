@@ -1,6 +1,6 @@
 # UNICEF RAG AI Chatbot 🤖📚
 
-![UNICEF Logo Placeholder](./static/assets/unicef_logo.png)
+![UNICEF Logo Placeholder](./static/images/unicef_logo.png)
 
 ## Overview
 
