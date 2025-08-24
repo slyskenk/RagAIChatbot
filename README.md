@@ -108,7 +108,7 @@ Run the chatbot
 ```bash
 
 python main.py
-Open the UI
+Open the UI using Liveserver
 Visit http://127.0.0.1:5000 in your browser.
 
 ```
