@@ -98,8 +98,10 @@ Run the chatbot
 ```bash
 
 python app.py
+```
 ![UI Screenshot](./static/assets/screenshot3.png)
 Then
+```bash
 Visit http://127.0.0.1:5000 or the respective url provided in your terminal in your browser.
 
 ```
