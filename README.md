@@ -82,11 +82,24 @@ source venv/bin/activate
 Install dependencies
 ```
 
+
+
 ```bash
 
 pip install -r requirements.txt
 Add UNICEF PDF reports
 Place PDFs in data/pdf/.
+
+### (Optional) Frontend Development with Live Server
+
+If you want to quickly preview frontend changes, install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in VS Code:
+
+- Open VS Code
+- Go to Extensions (`Ctrl+Shift+X`)
+- Search for **Live Server** and install it
+- Right-click `index.html` in the `templates` folder and select **Open with Live Server**
+
+---
 
 Run the chatbot
 
