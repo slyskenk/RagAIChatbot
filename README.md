@@ -87,7 +87,7 @@ source venv/bin/activate
 ```bash
 
 pip install -r requirements.txt
-Add UNICEF PDF reports
+Add UNICEF PDF reports if you'd like, but I kept a few already just incase!
 Place PDFs in data/pdf/.
 
 
